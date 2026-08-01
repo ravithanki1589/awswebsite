@@ -1,0 +1,1 @@
+$(function(){$('h2').hide().fadeIn(1500);});
